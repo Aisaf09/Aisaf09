@@ -4,7 +4,7 @@ Aquest document recull la meva recerca sobre el comportament en comunitats de pr
 
 ---
 
-## 🚀 Guia de Supervivència a Stack Overflow i GitHub
+## Guia de Supervivència a Stack Overflow i GitHub
 
 Per sobreviure en aquests entorns sense que et tanquin el fil als 2 minuts, cal seguir aquests "manaments" de l'ètica hacker:
 
@@ -16,7 +16,7 @@ Per sobreviure en aquests entorns sense que et tanquin el fil als 2 minuts, cal 
 
 ---
 
-## 📊 Diagnòstic de dades: Oci vs. Aprenentatge
+## Diagnòstic de dades: Oci vs. Aprenentatge
 
 He analitzat el meu temps d'ús del mòbil i les dades mostren un perfil actiu en formació.
 
@@ -25,7 +25,7 @@ He analitzat el meu temps d'ús del mòbil i les dades mostren un perfil actiu e
 | **Oci (Xarxes Socials)** | 1h 40min | 35.7% |
 | **Aprenentatge (Dev/Docs)** | 3h 00min | 64.3% |
 
-### 📈 Gràfica Comparativa
+### Gràfica Comparativa
 ```text
 Aprenentatge: [██████████████████] 180 min (64%)
 Oci/Xarxes:   [██████████]          100 min (36%)
