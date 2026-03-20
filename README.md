@@ -1,21 +1,31 @@
-- Hola, soc Aisaf El Machachi
-Actualment estic centrat en passar de ser un usuari que consumeix contingut a un que crea solucions. El meu objectiu ara mateix és consolidar la base de llenguatge HTML i JavaScript i no morir en l'intent de dominar Git.
+# 📘 Fase de Recerca: Netiqueta i Ètica Hacker
 
-- El meu camí actual
-  - Projecte actual: Estic fent pagines web per a empreses com restaurants, clubs, empreses de transport...
+Aquest document recull la meva recerca sobre el comportament en comunitats de programació i un auto-diagnòstic del meu ús de la tecnologia.
 
-- Aprenent: Ara mateix estic aprenent sobre la marcha codi de programació del que sigui no només HTML ni JavaScript
+---
 
-- Dada curiosa: He decidit que el meu historial de GitHub ha de tenir més verd que el meu feed de TikTok.
+## 🚀 Guia de Supervivència a Stack Overflow i GitHub
 
-- Eines que faig servir
-Llenguatges: HTML, JavaScript, CSS, entre altres
+Per sobreviure en aquests entorns sense que et tanquin el fil als 2 minuts, cal seguir aquests "manaments" de l'ètica hacker:
 
-Entorn: VS Code i molta cafeïna.
+1. **La Regla dels 15 minuts:** Abans de preguntar, busca a Google i documentació oficial durant 15 minuts. Si no ho trobes, pregunta explicant *exactament* què has provat ja.
+2. **Exemple Mínim Reproduïble (MRE):** No posis tot el teu projecte. Posa només el codi necessari per veure l'error. El codi sempre va en blocs de text (mai captures de pantalla).
+3. **No demanis, intercanvia:** La comunitat no està per fer-te els deures. Pregunta sobre conceptes o errors específics, no demanis "el codi sencer de l'app".
+4. **Títols Tècnics:** Evita "Ajuda si us plau". Utilitza títols com: *"Error de sintaxi en loop for amb Python 3.12"*.
+5. **Agraeix el temps dels altres:** Si una resposta et serveix, marca-la com a solució i dona les gràcies. El temps dels altres és or.
 
-Mantra: "Si funciona, no ho toquis (però intenta entendre per què funciona)".
+---
 
-- Com trobar-me
-Pots veure què vaig publicant al emu Linkedin: https://www.linkedin.com/in/aisaf-el-machachi-hsaina-686ba73b3/ Landing Page: https://aisaf09.github.io/Landing-page/
+## 📊 Diagnòstic de dades: Oci vs. Aprenentatge
 
-Obert a col·laboracions en projectes petits per aprendre en equip.
+He analitzat el meu temps d'ús del mòbil i les dades mostren un perfil actiu en formació.
+
+| Categoria | Temps Setmanal | Percentatge |
+| :--- | :--- | :--- |
+| **Oci (Xarxes Socials)** | 1h 40min | 35.7% |
+| **Aprenentatge (Dev/Docs)** | 3h 00min | 64.3% |
+
+### 📈 Gràfica Comparativa
+```text
+Aprenentatge: [██████████████████] 180 min (64%)
+Oci/Xarxes:   [██████████]          100 min (36%)
